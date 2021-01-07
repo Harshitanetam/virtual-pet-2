@@ -20,7 +20,7 @@ class Food{
     }
 
     getFoodStock(){
-        return this.FoodStock;
+        return this.foodStock;
     }
   
     display(){
